@@ -1,0 +1,9 @@
+#
+# CODEOWNERS Generated [DATE]
+#
+
+* @wcenterprises/digital-is-superusers [CODE-OWNERS]
+
+*.yml @wcenterprises/digital-is-build
+/build/ @wcenterprises/digital-is-build
+/.github/ @wcenterprises/digital-is-build
