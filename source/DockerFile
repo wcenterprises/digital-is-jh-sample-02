@@ -58,4 +58,4 @@ ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 
 COPY --from=publish /app .
 
-ENTRYPOINT ["dotnet", "[PROJECT-NAME].Service.Implementation.dll"]
+ENTRYPOINT ["dotnet", "Jh.Sample-02.Service.Implementation.dll"]

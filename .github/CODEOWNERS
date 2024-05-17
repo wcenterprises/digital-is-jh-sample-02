@@ -1,8 +1,8 @@
 #
-# CODEOWNERS Generated [DATE]
+# CODEOWNERS Generated 5/17/2024 1:50:59 PM
 #
 
-* @wcenterprises/digital-is-superusers [CODE-OWNERS]
+* @wcenterprises/digital-is-superusers @wcenterprises/digital-is-superuser brian-kc@outlook.com @brian-welsh
 
 *.yml @wcenterprises/digital-is-build
 /build/ @wcenterprises/digital-is-build
